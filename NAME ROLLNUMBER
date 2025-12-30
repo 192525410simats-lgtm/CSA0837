@@ -1,0 +1,3 @@
+Name="Ajay"
+Rollnumber=192525410
+print(Name,Rollnumber)
